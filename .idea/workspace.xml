@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef476140-7b09-4eeb-b9b2-551d50a54ffe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/blb/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/blb/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
       <updated>1577102016990</updated>
       <workItem from="1577102019929" duration="1617000" />
       <workItem from="1577104052172" duration="152000" />
+      <workItem from="1577102019929" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="IDea第一次">
       <created>1577103336509</created>
@@ -115,8 +116,11 @@
     </state>
     <state x="835" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577103488943" />
     <state x="946" y="344" key="git4idea.merge.GitPullDialog" timestamp="1577104214146">
+    <state x="946" y="344" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577104080410" />
+    <state x="1035" y="468" key="git4idea.rebase.GitRebaseDialog" timestamp="1577104110071">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="946" y="344" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577104214146" />
+    <state x="1035" y="468" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577104110071" />
   </component>
 </project>
